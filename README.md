@@ -21,7 +21,7 @@ There remain some features to be brought over from the Expert font, of which the
 
 -------------------------------------
 
-ET Book was designed by Dmitry Krasny, Bonnie Scranton, and [Edward Tufte][et]. It was converted from the original `suit` files by [David Kendal][dpk] ([@dpk][dpkgh]) following the original webfont conversion by  [Adam Schwartz][as] ([@adamschwartz][asgh]).
+ET Book was designed by Dmitry Krasny, Bonnie Scranton, and [Edward Tufte][et]. It was converted from the original `suit` files by [Daphne Preston-Kendal][dpk] ([@dpk][dpkgh]) following the original webfont conversion by  [Adam Schwartz][as] ([@adamschwartz][asgh]).
 
 [et]: https://www.edwardtufte.com/tufte/
 [dpk]: http://dpk.io/
